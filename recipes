@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            font-family: sans-serif;
+            font-size: 14px;
+        }
+        h1 { color: rgb(0, 173, 173); 
+            font-family: fantasy;
+        }
+        h2 { background-color: rgb(235, 255, 255); 
+            font-family: sans-serif;
+        }
+        table{
+            text-align:left;
+            border-spacing: 0.75rem;
+        }
+        .substitutions {
+            color: rgb(166, 166, 166);
+        }
+        .notes{
+            color: rgb(89, 150, 153);
+        }
+       
+        </style>
+    </head>
+    <body>
+
+        <h1>Ellen's Recipe Book</h1>
+        <h2><p><a name="table-of-contents">Contents:</a></p></h2>
+        <ol>
+            <li><a href="#turkey-divon">Turkey Divon</a></li>
+            <li><a href="#turkey-tetrazinni">Turkey Tetrazinni</a></li>
+            <li><a href="#keema-aloo">Keema Aloo</a></li>
+            <li><a href="#cranberry-pie">Cranberry Pie</a></li>
+            <li><a href="#rhubarb-custard-pie-10">Rhubarb Custard Pie 10"</a></li>
+             <li><a href="#rhubarb-custard-pie-9">Rhubarb Custard Pie 9"</a></li>
+        </ol>
+
+        <h2><a name="#turkey-divon">Turkey Divon</a></h2>
+        
+        <ul>
+            <li>Time: 45 min - 1 hr</li>
+            <li>Serves: 4 - 6</li>
+            <li>Preheat Oven: 350</li>
+            <li>Pan Size: 9x11 Cassarole</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr><td>Broccoli</td>
+                <td>1 Small Head</td>
+            </tr>
+            <tr><td>Turkey Slices</td>
+                <td>Approx 1 Cup</td>
+            </tr>
+            </tbody>
+            <tr><td>Cream of Chicken Soup</td>
+                <td>1 Can</td>
+                <td class="notes">uncooked</td>
+            </tr>
+            <tr><td>Mayonnaise</td>
+                <td>1/2 Cup</td>
+            </tr>
+            <tr><td>Lemon Juice</td>
+                <td>1/2 teaspoon</td>
+            </tr>
+            <tr><td>Curry Powder</td>
+                <td>2 teaspoons</td>
+            </tr>
+            <tr><td>Butter</td>
+                <td>1 Tablespoon</td>
+            </tr>
+            <tr><td>Bread Crumbs</td>
+                <td>1 Cup</td>
+            </tr>
+        </table>
+        
+        <p><strong>Step 1:</strong> Fry butter and breadcrumbs until slightly brown</p>
+        <p><strong>Step 2:</strong> Cook broccoli; drain</p>         
+        <p><strong>Step 3:</strong> Arrange broccoli in 9x11 casserole dish</p>           
+        <p><strong>Step 4:</strong> Mix  cream of chicken soup, mayonnaise, lemon juice and curry powder </p>
+        <p><strong>Step 4:</strong> Cover broccoli with turkey slices and soup mix</p>
+        <p><strong>Step 5:</strong> Cover the with bread crumbs</p>
+        <p><strong>Step 6:</strong> Bake at 350 degrees for 30 minutes</p>
+    <p><em>Source: mom</em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    
+    <h2><a name="turkey-tetrazinni">Turkey Tetrazinni</a></h2>
+        
+        <ul>
+            <li>Time: 45 min - 1 hr</li>
+            <li>Serves: 4 - 6</li>
+            <li>Preheat Oven: 350</li>
+            <li>Pan Size: 9x11 Cassarole</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>Angel Hair Pasta</td>
+                <td>1 Cup</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td>1 Cup</td>
+            </tr>
+            <tr>
+                <td>Dehydrated Minced Onions</td>
+                <td>1 teaspoon</td>
+                <td class="notes">in spice section</td>
+            </tr>
+            <tr>
+                <td>Turkey</td>
+                <td>1 Cup</td>
+                <td class="notes">bite-size pieces</td>
+            </tr>
+            <tr>
+                <td>Black Olives</td>
+                <td>1/2 Cup</td>
+                <td class="notes">sliced</td>
+            </tr>
+            <tr>
+                <td>Parmesan Cheese</td>
+                <td>1/2 Cup</td>
+                <td class="notes">grated</td>
+            </tr>
+            <tr>
+                <td>Salt & Pepper</td>
+                <td>to taste</td>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cook Pasta</p>
+        <p><strong>Step 2:</strong> Mix milk, onions, turkey, salt and pepper in a bowl</p>
+        <p><strong>Step 3:</strong> Add pasta to mix</p>
+        <p><strong>Step 4:</strong> Pour mix into 9x11 casserole dish</p>
+        <p><strong>Step 5:</strong> Sprinkle Parmesan cheese on top</p>
+        <p><strong>Step 6:</strong> Bake at 350 degrees for 30 min</p>
+    <p><em>Source: mom</em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    
+    <h2><a name="keema-aloo">Keema Aloo</a></h2>
+        
+        <ul>
+            <li>Time: 1 hr 20 min</li>
+            <li>Serves: 8</li>
+            <li>Preheat Oven: Not Used</li>
+            <li>Pan Size: Large Skillet</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Extra-Virgin Olive Oil</td>
+                <td>2 Tablespoons</td>
+                </tr>
+             <tr>
+                <td>Large Spanish Onion</td>
+                <td>1 Onion</td>
+                <td class="notes">chopped</td>
+                <td class="substitutions">leek or yellow onion</td>
+            </tr>
+            <tr>
+                <td>Water</td>
+                <td>2 Tablespoons</td>
+            </tr>
+            <tr>
+                <td>Lean Ground Beef</td>
+                <td>2 Pounds</td>
+                <td class="notes">drain grease</td>
+            </tr>
+            <tr>
+                <td>Fresh Garlic</td>
+                <td>2 Cloves</td>
+                <td class="notes">minced</td>
+            </tr>
+            <tr>
+                <td>Ginger Root</td>
+                <td>2 Tablespoons</td>
+                <td class="notes">fresh ginger</td>
+            </tr>
+            <tr>
+                <td>Serrano Chile Pepper</td>
+                <td>1 Pepper</td>
+                <td class="notes">don't use seeds</td>
+                <td class="substitutions">Ancho pepper</td>
+            </tr>
+            <tr>
+                <td>Fresh Cilantro</td>
+                <td>2 teaspoons</td>
+                <td class="notes">chopped</td>
+            </tr>
+            <tr>
+                <td>Coriander</td>
+                <td>1 Tablespoon</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td>1 & 1/2 teaspoons</td>
+            </tr>
+            <tr>
+                <td>Ground Cumin</td>
+                <td>1 & 1/2 teaspoons</td><tr>
+                <td>Ground Cayenne Pepper</td>
+                <td>1 teaspoon</td>
+            </tr>
+            <tr>
+                <td>Ground Tumeric</td>
+                <td>1 teaspoon</td>
+            </tr>
+            <tr>
+                <td>Diced Tomatoes</td>
+                <td>1 Can</td>
+            </tr>
+            <tr>
+                <td>Potatoes</td>
+                <td>3 Potatoes</td>
+                <td class="notes">peeled, boiled & cubed</td>
+            </tr>
+            <tr>
+                <td>Frozen Peas</td>
+                <td>1 Cup</td>
+            </tr>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Heat olive oil in a large sauce pan over medium-high heat. Cook and stir onion in the hot oil until soft and beggining to brown, about 12 minutes. If browned bits of onion are stuck to the bottom of the pan, stir water into onion and stir to loosen the browned bits.
+</p>
+        <p><strong>Step 2:</strong> Mix ground beef, garlic, ginger, serrano chile and cilantro into pan; cook and stir until beef is browned and crumbly, 10 to 15 minutes. Reduce heat to medium-low. Stir coriander, salt, cumin, cayenne pepper and tumeric into the beef; cook and sitr until flavors blend, about 5 minutes. Add tomatoes and potatoes, cover pot, simmer until potatoes are tender, about 15 minutes.
+</p>
+        <p><strong>Step 3:</strong> Mix green peas into dish and cook until sauce has slightly thickened and flavors have blended, 10-15 minutes. Cover and let stand for 5 minutes before serving.
+</p>
+        
+    <p><em>Source: <a href="http://allrecipes.com/recipe/231026/keema-aloo-ground-beef-and-potatoes/">Keema Aloo  allrecipes.com</a></em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    
+        <h2><a name="cranberry-pie">Cranberry Pie</a></h2>
+        
+        <ul>
+            <li>Time: 45 min - 1 hr</li>
+            <li>Serves: 6</li>
+            <li>Preheat Oven: 325</li>
+            <li>Pie Plate: 9" </li>
+                
+        </ul>
+            
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>Unbaked Pie Shell (Crust)</td>
+                <td>1 Shell</td>
+            </tr>
+            <tr>
+                <td>Whole Fresh Cranberries</td>
+                <td>2 Cups</td>
+                <td class="notes">uncooked</td>
+            </tr>
+            <tr>
+                <td>Brown Sugar</td>
+                <td>1/4 Cup</td>
+            </tr>
+            <tr>
+                <td>Walnuts</td>
+                <td>1/3 Cup</td>
+                <td class="notes">chopped</td>
+            </tr>
+            <tr>
+                <td>Egg</td>
+                <td>1 Egg</td>
+            </tr>
+            <tr>
+                <td>White Sugar</td>
+                <td>1/2 Cup</td>
+            </tr>
+            <tr>
+                <td>White Flour</td>
+                <td>1/2 Cup</td>
+            </tr>
+             <tr>
+                <td>Butter</td>
+                <td>1/2 Cup</td>
+                <td class="notes">melted</td>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Place pie shell in pie plate</p>
+        <p><strong>Step 2:</strong> Spread cranberries in pie crust</p>
+        <p><strong>Step 3:</strong> Evenly sprinkle brown sugar and walnuts over berries</p>
+        <p><strong>Step 4:</strong> In a small bowl, beat egg, sugar, flour and butter until smooth, spoon over berries</p>
+        <p><strong>Step 5:</strong> Bake at 325 degrees for 40 min</p>
+        <p><strong>Step 6:</strong> Serve with whipped cream</p>
+    <p><em>Source: mom</em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    
+    <h2><a name="rhubarb-custard-pie-10">Rhubarb Custard Pie 10"</a></h2>
+        
+        <ul>
+            <li>Time: 50 - 60 min</li>
+            <li>Serves: 8</li>
+            <li>Preheat Oven: 400</li>
+            <li>Pie Plate: 10" </li>
+            </ul>
+            
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>Unbaked Pie Shell (Crust)</td>
+                <td>1 Shell</td>
+            </tr>
+            <tr>
+                <td>Rhubarb</td>
+                <td>5 Cups</td>
+                <td class="notes">chopped, uncooked</td>
+            </tr>
+            <tr>
+                <td>Sugar</td>
+                <td>2 & 2/3 Cups</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td>4 Tablespoons</td>
+            </tr>
+            <tr>
+                <td>Eggs</td>
+                <td>4 Eggs</td>
+            </tr>
+             <tr>
+                <td>Flour</td>
+                <td>5 & 1/2 Tablespoons</td>
+            </tr>
+            <tr>
+                <td>Nutmeg</td>
+                <td>1 teaspoon</td>
+            </tr>
+            <tr>
+                <td>Butter</td>
+                <td>2 Tablespoons</td>
+                <td class="notes">melted</td>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Place pie shell in pie plate</p>
+        <p><strong>Step 2:</strong> Mix milk, sugar, eggs, nutmeg and butter in a bowl; stir well</p>
+        <p><strong>Step 3:</strong> Add Rhubarb to the mix</p>
+        <p><strong>Step 4:</strong> Pour mixture into pie shell</p>
+        <p><strong>Step 5:</strong> Bake at 400 degrees for 50-60 min</p>
+    <p><em>Source: mom</em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    
+        <h2><a name id="rhubarb-custard-pie-9">Rhubarb Custard Pie 9"</a></h2>
+        
+        <ul>
+            <li>Time: 50 - 60 min</li>
+            <li>Serves: 6</li>
+            <li>Preheat Oven: 400</li>
+            <li>Pie Plate: 9" </li>
+            </ul>
+            
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    <th class="notes">Notes</th>
+                    <th class="substitutions">Substitutions</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>Unbaked Pie Shell (Crust)</td>
+                <td>1 Shell</td>
+            </tr>
+            <tr>
+                <td>Rhubarb</td>
+                <td>4 Cups</td>
+                <td class="notes">chopped, uncooked</td>
+            </tr>
+            <tr>
+                <td>Sugar</td>
+                <td>2 Cups</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td>3 Tablespoons</td>
+            </tr>
+            <tr>
+                <td>Eggs</td>
+                <td>3 Eggs</td>
+            </tr>
+            <tr>
+                <td>Nutmeg</td>
+                <td>3/4 teaspoon</td>
+            </tr>
+            <tr>
+                <td>Butter</td>
+                <td>1 Tablespoon</td>
+                <td class="notes">melted</td>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Place pie shell in pie plate</p>
+        <p><strong>Step 2:</strong> Mix milk, sugar, eggs, nutmeg and butter in a bowl; stir well</p>
+        <p><strong>Step 3:</strong> Add Rhubarb to the mix</p>
+        <p><strong>Step 4:</strong> Pour mixture into pie shell</p>
+        <p><strong>Step 5:</strong> Bake at 400 degrees for 50-60 min</p>
+    <p><em>Source: mom</em></p>
+    <p><a href="#table-of-contents">back to top</a></p>
+    </body>
+</html>
